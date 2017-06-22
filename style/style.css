@@ -1,0 +1,25 @@
+.search-form {
+  margin: 25px 0;
+}
+
+.search-form .form-control {
+  display: inline-block;
+  float: left;
+  width: 85%;
+}
+.search-form .btn {
+  width: 15%;
+}
+
+table.table td {
+  vertical-align: bottom;
+}
+
+table.table td:first-child {
+  vertical-align: middle;
+}
+
+td:first-of-type, td:first-of-type > div {
+  width: 250px;
+  height: 200px;
+}
